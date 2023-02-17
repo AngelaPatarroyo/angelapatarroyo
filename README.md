@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Angela</h1>
-<h3 align="center">A passionate frontend developer from Colombia who lives in the UK</h3>
-
-- 🔭 I’m currently working on **a star wars project using an API**
+<h1 align="center">Hi 👋, I'm Angela but you can call me melbyn :) </h1>
+<h3 align="center">I am a 7 year Digital Marketing professional who has found her real passion in software development for what I am currently looking to start my carrer in this field :D
+- 🔭 I’m currently working on my portfolio using Reactjs and Tailwind and using external APIs.
 
 - ⚡ Fun fact **I have a silly sense of humor**
 
