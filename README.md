@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Angela but you can call me melbyn :) </h1>
-<h3 align="center">I am a 7 year Digital Marketing professional who has found her real passion in software development for what I am currently looking to start my carrer in this field :D
-- 🔭 I’m currently working on my portfolio using Reactjs and Tailwind and using external APIs.
+<h3 align="center">I am a 7 year Digital Marketing professional who has found her real passion in software development for what I am currently looking to start my carrer in this amazing world of coding and technology.
+  
+  
+  <p>- 🔭 I’m currently working on my portfolio using Reactjs, Tailwind and API REST.</p>
 
-- ⚡ Fun fact **I have a silly sense of humor**
+  <p>- ⚡ Fun fact I have a silly sense of humor</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
