@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angela but you can call me melbyn :) </h1>
-<h3 align="center">I am a 10 year Digital Marketing professional who has found her real passion in software development!
+
   
   <p>- 🔭 I’m currently working on my portfolio using Reactjs, Tailwind and API REST.</p>
 
